@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "author": "blaneb34@gmail.com",
-  "description": "A bot to do some random stuff, like, send pug pictures at random times",
+  "description": "A random bot to do random things",
   "dependencies": {
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.2",
@@ -20,6 +20,6 @@
     "hubot-slack": "^4.4.0"
   },
   "engines": {
-    "node": "8.11.1"
+    "node": "0.10.x"
   }
 }
